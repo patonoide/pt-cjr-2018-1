@@ -1,0 +1,7 @@
+SLIDES:   http://processotrainee.herokuapp.com/html/01#1
+
+http://tableless.github.io/iniciantes/manual/html/
+
+https://www.w3schools.com/html/
+
+EXERCÍCIOS: https://www.w3schools.com/html/exercise.asp
