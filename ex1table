@@ -13,16 +13,6 @@
 </head>
 
 <body>
-    <h1>Hellá World!!</h1>
-    <h1>Hellá World!!</h1>
-    <h1>Hellá World!!</h1>
-    <h1>Hellá World!!</h1>
-    <h1>Hellá World!!</h1>
-    <p class="red">
-        Red
-    </p>
-    <br>
-    <a href="http://github.com"><button type="button" name="button">Github</button>  </a>
 
     <ul>
         <li>IE</li>

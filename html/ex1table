@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+<head>
+    <title>Aula PT</title>
+
+
+</head>
+
+<body>
+
+    <table >
+        <thead>
+            <th colspan="7"> <h2> <div class="bold" >Lista de presença</div> </h2></th>
+        </thead>
+        <tbody>
+            <tr >
+                <td class="bold">Trainee </td>
+                <td class="bold">Aula</td>
+                <td class="bold">Aula</td>
+                <td class="bold">Aula</td>
+                <td class="bold">Aula</td>
+                <td class="bold">Aula</td>
+                <td class="bold">Aula</td>
+
+            </tr>
+
+            <tr>
+                <td class="alignl">Aluno 1</td>
+                <td class="interno">Presente</td>
+                <td class="interno">Presente</td>
+                <td class="interno">Falta</td>
+                <td class="interno">Presente</td>
+                <td class="interno">Falta</td>
+                <td class="interno">Presente</td>
+
+
+            </tr>
+
+            <tr>
+                <td class="alignl">Aluno 2</td>
+                <td class="interno">Presente</td>
+                <td class="interno">Presente</td>
+                <td class="interno">Presente</td>
+                <td class="interno">Presente</td>
+                <td class="interno">Presente</td>
+                <td class="interno">Falta</td>
+
+            </tr>
+            <tr>
+                <td class="alignl">Aluno 3</td>
+                <td class="interno">Falta</td>
+                <td class="interno">Falta</td>
+                <td class="interno">Presente</td>
+                <td class="interno">Presente</td>
+                <td class="interno">Presente</td>
+                <td class="interno">Presente</td>
+
+
+            </tr>
+
+            <tr>
+                <td class="alignl">Aluno 4</td>
+                <td class="interno">Falta</td>
+                <td class="interno">Falta</td>
+                <td class="interno">Presente</td>
+                <td class="interno">Falta</td>
+                <td class="interno">Presente</td>
+                <td class="interno">Falta</td>
+
+
+            </tr>
+
+            <tr>
+                <!-- não é o ideal mas funciona :/ -->
+                <td colspan="7" > <span class="hidden">texto</span> </td>
+
+
+            </tr>
+            <tr>
+                <td >Total de Faltas</td>
+                <td class="interno">2</td>
+                <td class="interno">2</td>
+                <td class="interno">1</td>
+                <td class="interno">1</td>
+                <td class="interno">1</td>
+                <td class="interno">2</td>
+
+
+            </tr>
+
+        </tbody>
+
+    </table>
+
+</body>
+
+<style >
+
+h2{
+    padding-bottom: 0px;
+    margin-top: 15px;
+}
+.interno{
+    color:red;
+
+}
+.bold{
+    font-weight: bold;
+}
+
+table {
+    border-collapse: collapse;
+
+}
+
+table, th, td {
+    border: 1px solid black;
+
+}
+td{
+    text-align: center;
+    padding: 10px;
+
+}
+.hidden{
+    visibility: hidden;
+}
+.alignl{
+    text-align: left !important;
+    padding-left:  20px ;
+
+
+}
+
+
+</style>
+
+</html>
