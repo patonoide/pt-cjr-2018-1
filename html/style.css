@@ -1,0 +1,41 @@
+h1{
+    color:green;
+
+}
+
+.bloco{
+    height: 500px;
+    width:500px;
+    border: 10px;
+    border-style: ridge;
+    margin: 5px;
+    display: inline-flex;
+}
+.meio{
+    width:500px;
+    height{
+
+    }
+}
+
+
+table{
+    border: 10px;
+    border-style: ridge;
+    border-collapse: collapse;
+    height: 500px;
+    width:1000px;
+
+}
+td {
+    border: 1px solid black;
+
+}
+img{
+    margin: 20px;
+}
+.texto{
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
